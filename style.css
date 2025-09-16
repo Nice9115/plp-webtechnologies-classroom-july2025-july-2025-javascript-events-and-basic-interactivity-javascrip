@@ -1,0 +1,43 @@
+ .accordion{
+    border : 2px solid black;
+    margin: 20px auto;
+    width : 800px;
+    border-radius: 10px;
+    padding: 10px;
+ }
+ 
+ .accordion-item
+ {
+    margin : 10px 0;
+    border : 2px solid black;
+    border-radius: 10px;
+    background : grey;
+ }
+ .accordion-content {
+    display : none;
+    padding : 10px;
+    background : blue;
+ 
+}
+
+#carousel{
+    width:800px;
+    margin:20px auto;
+    border:2px solid black;
+    border-radius:10px;
+    padding:10px;
+}
+
+img{
+    width: 80%;
+    height: 60%;
+    
+}
+
+input{
+    font-size: 16px;
+    margin: 5px 0;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
